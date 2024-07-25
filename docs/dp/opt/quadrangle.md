@@ -434,6 +434,7 @@ $$
 -   [Codechef - CHEFAOR](https://www.codechef.com/problems/CHEFAOR)
 -   [Hackerrank - Guardians of the Lunatics](https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14)
 -   [ACM ICPC World Finals 2017 - Money](https://open.kattis.com/problems/money)
+-   [LOJ - Jewel Thief](https://loj.ac/p/6039)
 
 ## 参考资料
 
